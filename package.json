@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Viktoriia3192.github.io/new-js-project",
+  "homepage": "https://GoitStudentsWorks.github.io/js_87_Viktoriia3192",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /new-js-project/"
+    "build": "parcel build src/*.html --public-url /js_87_Viktoriia3192/"
   },
   "repository": {
     "type": "git",
